@@ -1,6 +1,6 @@
 # AWS ECS Web Project
 
-A static web application containerized with Docker and deployed on AWS using ECS, Fargate, ECR, and Terraform.
+A static web application containerized with Docker and deployed on AWS using ECS, Fargate, ECR, and Terraform
 
 ## Architecture
 
